@@ -1,0 +1,17 @@
+typescript => type safety
+what ts does:
+
+static checking: Analyze the code as we type.That's it
+
+TS is a development tool.Your project still runs JS
+TS is subset of JS
+TS has less error code 
+
+.ts extention of typescript for execute typescript code
+.tsx for execute typescript component
+
+Types : number,string,boolean,null,undefined,void,
+object,array,tuples, Any,Never,unknown and many more
+
+continue : 30:00 mim
+link : https://youtu.be/ZchBYjHFCC4?si=Amrmpt2fViOd-_rd
